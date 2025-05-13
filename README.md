@@ -53,6 +53,10 @@ The **Super Store Sales Dashboard** is an interactive report that visualizes bus
 
 ### 2. **Super Store Sales Forecast (15 Days)**
 
+
+![image alt](https://github.com/JISHNUPALIT/SuperStore-Sales-Analysis-using-Power-BI/blob/35dde1b0bb562f652aef0dbfc9bc4854376c8d9e/Sales%20forecast.png)
+
+
 #### 🧾 Overview:
 This dashboard delivers a **15-day forward-looking forecast** of store sales using historical data trends. It helps in proactive decision-making related to inventory management, staffing, and promotional planning.
 
