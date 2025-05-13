@@ -7,6 +7,10 @@ This repository contains interactive Power BI dashboards built to analyze and fo
 
 ### 1. **Super Store Sales Dashboard**
 
+
+![image alt](https://github.com/JISHNUPALIT/SuperStore-Sales-Analysis-using-Power-BI/blob/241d79e250a7f7684874b86a27eaea3cc7c9a0c9/Sales%20Dashboard.png)
+
+
 #### 🧾 Overview:
 The **Super Store Sales Dashboard** is an interactive report that visualizes business performance across customer segments, regions, shipping modes, and product categories. It is designed to help stakeholders understand trends, monitor KPIs, and make data-driven decisions.
 
